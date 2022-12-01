@@ -20,6 +20,8 @@ function App() {
       {screen === "project" && <main className='body'>
          project
       </main>}
+      <div>
+      </div>
      
       
     </div>
